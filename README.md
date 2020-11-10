@@ -9,4 +9,4 @@ Trabalho realizado por:
 Artigos escritos no Medium:
 - [Parte 1 - Entendendo o contexto e o desafio](https://alvarofpp.medium.com/previs%C3%A3o-do-tempo-de-natal-rn-utilizando-lstm-parte-1-3-e2ee9dee2d0d);
 - [Parte 2 - Coleta e tratamentos dos dados](https://alvarofpp.medium.com/previs%C3%A3o-do-tempo-de-natal-rn-utilizando-lstm-parte-2-3-437bca7fa51d);
-- [Parte 3 - Modelos, discussões e projetos, futuros]().
+- [Parte 3 - Modelo, discussões e projetos futuros](https://alvarofpp.medium.com/previs%C3%A3o-do-tempo-de-natal-rn-utilizando-lstm-parte-3-3-f3d485674e08).
